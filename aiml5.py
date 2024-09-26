@@ -2,7 +2,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-data_url = 'https://github.com/AmritRajGarg/College_Notes/raw/main/AIML/data.csv'
+data_url = 'https://github.com/ujjawal0402/AIML/blob/main/csvfile.csv'
 
 dataset = pd.read_csv(data_url)
 
