@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Define the URL for the CSV file
-csv_url = 'https://github.com/AmritRajGarg/College_Notes/raw/main/AIML/data.csv'
+csv_url = 'https://github.com/ujjawal0402/AIML/blob/main/csvfile.csv'
 
 # Load the data from the URL
 df = pd.read_csv(csv_url)
